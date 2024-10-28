@@ -817,6 +817,7 @@ a.contact_btn:hover {
     margin: 0 auto;
     padding-left: 15px;
     width: auto !important;
+    hight: 100%;
 }
 
 .Portfolio-box {
@@ -845,6 +846,7 @@ a.contact_btn:hover {
 
 img {
     max-width: 100%;
+    height: 20px;
 }
 
 /* no transition on .isotope container */
