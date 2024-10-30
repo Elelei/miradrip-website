@@ -2458,7 +2458,6 @@ color: #D0D0D0;
 font-size: 14px;
 padding: 10px 11px;
 }
-} 
 @media (max-width: 480px){ 
 .navStyle {
 float: left;
@@ -2467,7 +2466,7 @@ text-align: left;
 margin-top: 20px;
 }
 .caption {
-display:none;
+display:block;
 }
 .navbar {
 border: 0px solid #fff;
