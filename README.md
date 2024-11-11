@@ -22,7 +22,6 @@ Miradrip is an online fashion brand focused on delivering value and quality. Our
 - **Interactive Carousel**: Showcasing trending styles and featured items.
 - **Product Categories**: Tailored sections for both men and women.
 - **Easy Navigation**: User-friendly layout and structure.
-- **Fast and Secure Checkout**: Simplifies the purchase process.
 - **Contact Us Section**: Easy for users to get in touch with us.
 
 ## Technologies Used
@@ -31,7 +30,6 @@ Miradrip is an online fashion brand focused on delivering value and quality. Our
 - **CSS** - For styling and layout design.
 - **JavaScript** - For interactivity and responsiveness.
 - **Bootstrap** - For responsive grid layout and components.
-- **Font Awesome** - For icons.
 
 ## Getting Started
 
