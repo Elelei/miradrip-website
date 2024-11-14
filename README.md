@@ -1,6 +1,6 @@
 # Miradrip
 
-Welcome to the **Miradrip** website repository! Miradrip is an online store that offers a curated collection of high-quality, stylish clothing and accessories for both men and women. Our goal is to empower customers through style, providing them with pieces that reflect elegance, comfort, and individuality.
+Welcome to the **Miradrip** website repository! Miradrip is an online store that offers a curated collection of high-quality, stylish clothing and accessories for both men and women. Our goal is to offer the best services to our customers providing them with pieces that reflect elegance, comfort, and individuality.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the **Miradrip** website repository! Miradrip is an online store that
 
 ## About
 
-Miradrip is an online fashion brand focused on delivering value and quality. Our website provides a seamless experience for customers looking to purchase fashionable clothing and accessories. With categories catering to both men and women, we ensure that every piece speaks to style, comfort, and sophistication. Your satisfaction is our main concern
+Miradrip is an online fashion brand focused on delivering value and quality. Our website provides a seamless experience for customers looking to purchase fashionable clothing and accessories. With categories catering to both men and women, we ensure that every piece speaks to style, comfort, and sophistication.
 
 ## Features
 
